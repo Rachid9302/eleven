@@ -1,1 +1,0 @@
-Le dossier web et le fichier app_dev.php n'existe pas dans Symfony 4
